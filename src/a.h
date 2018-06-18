@@ -1,0 +1,2 @@
+
+enum Beers { ALE, LAGER=10, STOUT, PILSNER, PILZ=PILSNER };
