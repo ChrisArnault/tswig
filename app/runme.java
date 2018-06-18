@@ -10,6 +10,7 @@ public class runme {
   public static void main(String argv[]) {
     System.out.println(ca.a.fact(5));
 
+    /*
     ca.a.Vector v = new ca.a.Vector();
     v.setX(3.5);
     v.setY(7.2);
@@ -17,6 +18,7 @@ public class runme {
     double y = v.getY();
     System.out.println(x);
     System.out.println(y);
+    */
   }
 }
 
