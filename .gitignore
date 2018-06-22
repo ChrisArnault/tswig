@@ -8,3 +8,6 @@ derby.log
 *.class
 linux
 
+ca
+*wrap*
+
