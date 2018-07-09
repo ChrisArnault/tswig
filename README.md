@@ -1,7 +1,7 @@
 # tswig
 exploring the SWIG tool
 
-[aaa](#aaa)
+[aaa](aaa)
 
 
 dfsf
@@ -62,7 +62,7 @@ dfgd
 
 dgf
 
-avant<a id="aaa"></a>apres
+avant<a id="aaa">aaa</a>apres
 
 fddfg
 dfgdgd
