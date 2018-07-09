@@ -1,7 +1,7 @@
 # tswig
 exploring the SWIG tool
 
-[aaa](aaa)
+[aaa](#aaa)
 
 
 dfsf
