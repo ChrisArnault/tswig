@@ -62,7 +62,7 @@ dfgd
 
 dgf
 
-<a name="aaa">aaaa</a>
+avant<a id="aaa"></a>apres
 
 fddfg
 dfgdgd
