@@ -1,7 +1,7 @@
 # tswig
 exploring the SWIG tool
 
-[aaa](aaa)
+[aaa](#aaa)
 
 
 ddf
@@ -12,7 +12,7 @@ dfgd
 
 dgf
 
-aaaa
+<a name="aaa">aaaa</a>
 
 fddfg
 dfgdgd
